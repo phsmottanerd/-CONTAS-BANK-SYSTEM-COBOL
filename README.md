@@ -26,6 +26,12 @@
 
 ---
 
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=COMO+EXECUTAR" />
+
+</div>
 # 🚀 Sobre o Projeto
 
 ```diff

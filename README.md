@@ -56,7 +56,11 @@
 + e compreensão dos conceitos utilizados em sistemas legados
 + amplamente presentes no mercado financeiro.
 ```
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:008f11&height=250&section=header&text=CONTAS%20BANK%20SYSTEM&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
+
+</div>
 ---
 
 # ✨ Funcionalidades

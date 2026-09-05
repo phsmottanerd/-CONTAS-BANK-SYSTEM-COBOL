@@ -11,6 +11,13 @@
 </div>
 
 </div>
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=FUNCIONALIDADES" />
+
+</div>
+
 <img src="https://img.shields.io/badge/COBOL-GnuCOBOL-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/LINGUAGEM-COBOL-green?style=for-the-badge">

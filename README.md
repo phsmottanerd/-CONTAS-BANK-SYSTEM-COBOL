@@ -63,6 +63,13 @@
 </div>
 ---
 
+```diff
++ Sistema bancário desenvolvido em COBOL.
++ CRUD completo para operações bancárias.
++ Projeto focado em lógica de negócios.
++ Estruturado seguindo conceitos corporativos.
++ Inspirado em aplicações financeiras reais.
+```
 # ✨ Funcionalidades
 
 ```diff
